@@ -57,5 +57,7 @@ And here is the [dashboard!](https://public.tableau.com/app/profile/alika.pratam
 # [Project 2 : Increasing Link Aja Active-Registered Ratio](https://drive.google.com/file/d/1akJcV4ubBuW7OajFJQCJrgrSAAVM8t03/view)
 Understanding problems from Link Aja using SMART methods and issue tree to define metrics solution to answer the problem.
 
+![](https://github.com/alika-pratama/alika-da-porto/blob/main/images/Screen%20Shot%202022-05-22%20at%2022.02.07.png)
+
 # [Project 1 : Increasing Link Aja Active-Registered Ratio (Amazon's 6-Pagers Version)](https://drive.google.com/file/d/1Kj2Drlyt5MMBAXH7t-EOti_boL3vfd4V/view)
 Amazon's 6-Pagers version of understanding a problem and defining the solution of the Link Aja case.
