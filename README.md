@@ -32,6 +32,7 @@ And here is the [dashboard](https://public.tableau.com/app/profile/alika.pratama
 - Perform an Exploratory Data Analysis and basic statistics
 
 # [Project 3 : San Francisco Ford Go Bike Study Case](https://drive.google.com/file/d/1MsK47HC9zrteIBkrlheT6Ph0dA1Oc3uH/view)
+- Perform retention cohorts analysis
 - Perform SQL in BigQuery
 - Perform a simple data visualization using Google Data Studio
 - Understanding data and gain insight
