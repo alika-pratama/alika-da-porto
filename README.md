@@ -1,7 +1,7 @@
 # alika-da-porto
 The portfolio of Alika Pratama' recent work in Data Analytics
 
-# Project 8 : Predicting Steel Reinforcement Bar Price Compared to IHSG, CNY, and USD using Artificial Neural Network
+# [Project 8 : Predicting Steel Reinforcement Bar Price Compared to IHSG, CNY, and USD using Artificial Neural Network](https://github.com/alika-pratama/predicting-rebar)
 - Prediction of the unit price of steel reinforcement bar compared to the price of IDX Composite (IHSG), USD, and CNY
 - Using the Artificial Neural Network
 - The historical data of the steel unit price was taken from my company's previous purchase data from 2018 to 2021
