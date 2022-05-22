@@ -8,18 +8,18 @@ The portfolio of Alika Pratama' recent work in Data Analytics
 - This prediction could be useful in a procurement phase of a project, to help the project estimate the budget and also while negotiating with the vendor, to determine whether or not the quoted unit price is reasonable.
 - The model has an absolute error by Rp. 365/kg, which means the predicted result may differ in a range from +365 to -365
 
-![](https://github.com/alika-pratama/alika-da-porto/blob/main/images/Screen%20Recording%202022-04-27%20at%2023.46.58.mov)
-
 # [Project 7 : Housing Rental Business Recommendation in Germany](https://drive.google.com/file/d/1QXU8TIqKIrpzzfyYmSdYc2odHcBHQorJ/view)
 Give a recommendation to the business owner about factors that must be considered prior to opening a housing rental business in Germany, such as:
 - Location
 - Type of flat and Facilities
 - Area 
 - Price range
+And we make a [dashboard](https://public.tableau.com/app/profile/godeliva/viz/GFPpastibisa_16497133285480/Story1) too!
 
 # [Project 6 : Singapore AirBnB Study Case](https://drive.google.com/file/d/1xr-jhJPkIL-Obim5dwcGCO-dSlXe9OWP/view)
 - Perform data visualization using Tableau
 - Making a dashboard using Tableau
+And here is the [dashboard](https://public.tableau.com/app/profile/alika.pratama.r.lamoni/viz/AlikaPratama_RevoU_Advanced_EDA/ExploratoryDataAnalysis)
 
 # [Project 5 : Brazilian E-Commerce Marketing Target Study Case](https://drive.google.com/file/d/166lnxLZuiNhnYnnvelLSRr8OqNYaiu8n/view)
 - Perform data analysis using Python in Google Collab
